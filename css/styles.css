@@ -296,8 +296,8 @@ align-items: center;
 justify-content: center;
 }
 
-.icon:hover 
-.icon:focus {
+.social-networks-link:hover, 
+.social-networks-link:focus {
 background-color: #404bbf; 
 }
 
@@ -484,7 +484,7 @@ justify-content: center;
 transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.footer-menu-link:hover
+.footer-menu-link:hover,
 .footer-menu-link:focus {
 background-color: #31d0aa;
 }
